@@ -1,3 +1,5 @@
+This Application has been developed on Java 8 Netbeans and requires JRE 8 or above to run the application on Windows/Linux machines.
+
 File NatureWiseYearWiseGenerator.java is the main file which contains the main method to run the Application. Run this file to test the application.
 
 File SelectAppForm.java is a GUI form to select the Application type whether to work on single CSV file or multiple files and folders.
