@@ -1,4 +1,4 @@
-File NatureWiseYearWiseGenerator.java is the main file which contains the main method to run the Application.
+File NatureWiseYearWiseGenerator.java is the main file which contains the main method to run the Application. Run this file to test the application.
 
 File SelectAppForm.java is a GUI form to select the Application type whether to work on single CSV file or multiple files and folders.
 
